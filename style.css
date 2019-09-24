@@ -1,0 +1,18 @@
+h3 {
+	display:table-cell;
+	margin :4px;
+}
+td {
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border:solid black;
+	background-color: white;
+}
+span{
+	margin-right: 150px
+}
+body {
+	background-color: orange;
+}
