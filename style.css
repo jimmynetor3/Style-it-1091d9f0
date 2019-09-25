@@ -11,8 +11,11 @@ td {
 	background-color: white;
 }
 span{
-	margin-right: 150px
+	margin-right: 200px
 }
 body {
 	background-color: orange;
+}
+span1 {
+	margin-right: 600px;
 }
